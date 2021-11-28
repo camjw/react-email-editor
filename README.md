@@ -1,5 +1,7 @@
 # React Email Editor
 
+NOTE: this is just a fork by @camjw to add React 17 support
+
 The excellent drag-n-drop email editor by [Unlayer](https://unlayer.com/embed) as a [React.js](http://facebook.github.io/react) _wrapper component_. This is the most powerful and developer friendly visual email builder for your app.
 
 |                                                          Video Overview                                                           |
@@ -48,7 +50,7 @@ const App = (props) => {
     // you can load your template here;
     // const templateJson = {};
     // emailEditorRef.current.editor.loadDesign(templateJson);
-  }
+  };
 
   const onReady = () => {
     // editor is ready
