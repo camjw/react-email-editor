@@ -1,6 +1,6 @@
 {
   "name": "@camjw/react-email-editor",
-  "version": "1.5.1",
+  "version": "1.5.2",
   "description": "Unlayer's Email Editor Component for React.js - @camjw fork to add React 17 support",
   "main": "lib/index.js",
   "module": "es/index.js",
